@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Project API AI Powered Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fathir1245/AI-Powered-Resume.git"
+  },
+  "author": "Amirul, Ari, Yunus, Faathir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fathir1245/AI-Powered-Resume/issues"
+  },
+  "homepage": "https://github.com/Fathir1245/AI-Powered-Resume#readme"
+}
